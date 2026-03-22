@@ -109,7 +109,7 @@ All notebooks are **self-contained** and can be run end-to-end.
 
 ---
 
-## Key HighlightsNote: This project was inspired by a real-world evaluation scenario and extended with additional improvements and analysis.
+## Key Highlights
 - Built a modular email tagging system with customer-level isolation
 - Designed and evaluated multiple LLM prompts for sentiment consistency
 - Implemented a mini RAG pipeline for knowledge base retrieval
