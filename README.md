@@ -109,9 +109,12 @@ All notebooks are **self-contained** and can be run end-to-end.
 
 ---
 
-## Notes
+## Key HighlightsNote: This project was inspired by a real-world evaluation scenario and extended with additional improvements and analysis.
+- Built a modular email tagging system with customer-level isolation
+- Designed and evaluated multiple LLM prompts for sentiment consistency
+- Implemented a mini RAG pipeline for knowledge base retrieval
+- Performed error analysis and iterative improvements
 
-* This assignment helped me practice **clean thinking, prompt design, embeddings-based retrieval, and error analysis**.
-* I focused on keeping the **architecture simple**, code readable, and results reproducible.
-* The system is modular and can be easily improved or expanded in the future.
+---
 
+Note: This project was inspired by a real-world evaluation scenario and extended with additional improvements and analysis.
