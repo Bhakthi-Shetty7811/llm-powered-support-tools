@@ -1,6 +1,6 @@
-# Hiver AI Intern Assignment – Bhakthi Shetty
+# AI-Powered Customer Support Intelligence System
 
-This repository contains my solutions for the Hiver AI Intern evaluation assignment. I tried to keep the code simple, understandable, and reproducible while covering all the tasks.
+This project demonstrates the design and implementation of AI-powered workflows for customer support systems, including email classification, sentiment analysis, and knowledge-base question answering. The goal was to build simple, modular, and interpretable solutions using a combination of rule-based logic, prompt engineering, and retrieval-augmented generation (RAG).
 
 ---
 
